@@ -14,7 +14,7 @@ Collect a dataset of at least three landmarks, including Low Library, Statue Lio
 
 
 
-## Construct Model using Transfer learning
+## Construct Model 
 - Using Realtime Data Augmentation
 
   <p align="center">
