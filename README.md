@@ -42,7 +42,9 @@ To start a server, we can use one built-in to Python.
 
 `$ python3 -m http.server [port]`
 
-Finally, open a browser using the given URL. The designed webpage should appear. 
+Finally, open a browser using the given URL. The designed webpage should appear.
+
+
 
 ## Author
 
