@@ -3,6 +3,8 @@
 
 In this project, I built a deep learning model to recognize landmarks (famous places, like the Alma Mater sculpture, or Butler library) on Columbia's campus, and get it working in the browser.
 
+Website: https://queensize706.github.io/Recognize-landmarks-on-Columbia-campus-in-the-browser/
+
 ## Built With
 
 * [Keras](https://keras.io/) - The deep learning framework used
@@ -14,7 +16,7 @@ Collect a dataset of at least three landmarks, including Low Library, Statue Lio
 
 
 
-## Construct Model 
+## Construct Model
 - Using Realtime Data Augmentation
 
   <p align="center">
